@@ -1,17 +1,13 @@
-# 💻 Welcome to my profile!
-
----
-
-### 👨‍💻 About Me
+### About Me
 I am **Leonardo Gaertner**, currently pursuing a degree in **Software Engineering at UDESC – CEAVI**.  
 Passionate about building reliable, maintainable software and improving through practical projects and study. 
 
-🏢 **Workplace:** **Bovenau — Support Analyst** 
-📍 Rio do Sul, SC, Brazil
+**Workplace:** **Bovenau — Support Analyst** 
+Rio do Sul, SC, Brazil
 
 ---
 
-## 🚀 Areas of Interest
+## Areas of Interest
 
 - **Backend Development** (Java, C#, Spring Boot, .NET)  
 - **Mobile & Cross-platform** (.NET MAUI)  
@@ -22,7 +18,7 @@ Passionate about building reliable, maintainable software and improving through 
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="left">          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" />&nbsp;
@@ -44,21 +40,21 @@ Passionate about building reliable, maintainable software and improving through 
 
 ---
 
-## 🌱 Current Focus & Learning
+## Current Focus & Learning
 
-- Building cross-platform apps with **.NET MAUI**  
-- Designing and implementing **clean, testable backend services** (Java / Spring Boot)  
+- Building cross-platform apps  
+- Designing and implementing **clean, testable backend services**  
 - Improving knowledge of **software architecture patterns** and automated testing  
-- Practicing real-world integrations (APIs) and UI/UX basics for apps
+- Developing real-world integrations (APIs) 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogaertner&theme=radical)](h)
 
 
-## 📫 Contact
+## Contact
 
 You can find me on:
 
