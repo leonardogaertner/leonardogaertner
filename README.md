@@ -1,22 +1,7 @@
 ### About Me
 I am **Leonardo Gaertner**, currently pursuing a degree in **Software Engineering at UDESC – CEAVI**.  
-Passionate about building reliable, maintainable software and improving through practical projects and study. 
 
-**Workplace:** **Bovenau — Support Analyst** 
-Rio do Sul, SC, Brazil
 
----
-
-## Areas of Interest
-
-- **Backend Development** (Java, C#, Spring Boot, .NET)  
-- **Mobile & Cross-platform** (.NET MAUI)  
-- **Frontend** (Angular, TypeScript)  
-- **Databases & Data Modeling** (PostgreSQL, MySQL)  
-- **Software Architecture & Code Quality**  
-- **APIs & Integration** (RESTful services, client-server communication)
-
----
 
 ## Skills & Tools
 
@@ -38,16 +23,7 @@ Rio do Sul, SC, Brazil
 * **Tools:** Git, Postman
 * **Concepts:** Software Architecture, Clean Code, Unit & Integration Testing, REST APIs
 
----
 
-## Current Focus & Learning
-
-- Building cross-platform apps  
-- Designing and implementing **clean, testable backend services**  
-- Improving knowledge of **software architecture patterns** and automated testing  
-- Developing real-world integrations (APIs) 
-
----
 
 ## GitHub Stats
 
